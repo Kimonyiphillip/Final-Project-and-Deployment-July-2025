@@ -90,7 +90,7 @@ section {
       rgba(0, 0, 0, 0.6) 50%,
       rgba(0, 0, 0, 0.6) 50%
     ),
-    url("/images/pexels-putriana-mufidah-277774443-32423516.jpg");
+    url("images/pexels-putriana-mufidah-277774443-32423516.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -141,7 +141,7 @@ section {
       rgba(0, 0, 0, 0.5) 50%,
       rgba(0, 0, 0, 0.5) 50%
     ),
-    url("/images/berries (2).jpg");
+    url("images/berries (2).jpg");
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
